@@ -1,2 +1,4 @@
-
-Console.log(
+function() =>{
+Console.log("REACT")
+}
+Const a = 
