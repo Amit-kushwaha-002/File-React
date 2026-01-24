@@ -1,4 +1,5 @@
 function() =>{
 Console.log("REACT")
 }
-Const
+Const a= prompt('Enter a value')
+Console.log(a)
