@@ -2,4 +2,4 @@ function() =>{
 Console.log("REACT")
 }
 Const a= prompt('Enter a value')
-Console.log(a)
+Console.log(a);
